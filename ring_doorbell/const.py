@@ -154,7 +154,7 @@ DOORBELL_EXISTING_DURATION_MIN = 0
 DOORBELL_EXISTING_DURATION_MAX = 10
 
 # device model kinds
-CHIME_KINDS = ["chime", "chime_v2"]
+CHIME_KINDS = ["chime", "chime_v2", "chime_v3"]
 CHIME_PRO_KINDS = ["chime_pro", "chime_pro_v2"]
 
 DOORBELL_KINDS = ["doorbot", "doorbell", "doorbell_v3"]
